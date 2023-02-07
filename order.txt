@@ -1,0 +1,12 @@
+1. Hello World
+2. Variables & Data Types
+4. Strings
+5. Math
+6. If statements
+8. Lists
+3. User Input [Lists]
+7. Loops [Lists, Math]
+9. Functions
+11. Error handling [functions, if]
+12. Working with files [Error handling]
+10. OOP [functions, if]
